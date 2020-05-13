@@ -1,0 +1,39 @@
+@charset "utf-8";
+.encabezado{
+background-color: aqua;
+	width:73%;
+	height: 70px;
+	float:inherit;
+	margin-bottom: 10px;
+}
+.bar{
+background-color: aqua;
+	width:20%;
+	height: 550px;
+	float:left;
+	margin-bottom: 10px;
+}
+.header{
+background-color: aqua;
+	width:51%;
+	height: 170px;
+	float:inherit;
+	margin-left:330px;
+	margin-bottom: 10px;
+}
+.body{
+background-color: aqua;
+	width:51%;
+	height: 370px;
+	float:inherit;
+	margin-left:330px;
+	margin-bottom: 10px;
+}
+.footer{
+background-color: aqua;
+	width:73%;
+	height: 35px;
+	float:inherit;
+	margin-bottom: 10px;
+}
+	

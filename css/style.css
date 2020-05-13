@@ -1,0 +1,29 @@
+@charset "utf-8";
+.encabezado{
+background-color: aqua;
+	width:48.5%;
+	height: 70px;
+	float:left;
+	margin-bottom: 2%;
+}
+.galeria{
+	background-color: aqua;
+	width:22%;
+	height: 70px;
+	float:left;
+	margin: 18.8px;
+}
+.galeria1{
+	background-color: aqua;
+	width:31%;
+	height: 70px;
+	float:left;
+	margin: 11px;
+}
+.Footer{
+	background-color: aqua;
+	width:96%;
+	height: 70px;
+	float:left;
+	margin: 10px;
+}
